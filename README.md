@@ -19,6 +19,13 @@ Use with one of the following browser extensions:
 Release Notes
 =============
 
+Version 1.0.2
+-------------
+_Released 2015-07-15_
+
+* Fix bugs caused by HTML changes on IMDb's end preventing button from being displayed
+* Change Netflix search URL
+
 Version 1.0.1
 -------------
 _Released 2012-09-17_
