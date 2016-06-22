@@ -19,6 +19,12 @@ Use with one of the following browser extensions:
 Release Notes
 =============
 
+Version 1.0.3
+-------------
+_Released 2016-06-21_
+
+* Updated to wok with new IMDb layout
+
 Version 1.0.2
 -------------
 _Released 2015-07-15_
