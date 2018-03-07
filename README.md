@@ -26,6 +26,12 @@ Use with one of the following browser extensions:
 Release Notes
 =============
 
+Version 1.0.5
+-------------
+_Released 2018-03-06_
+
+* Updated to work with underlying IMDb HTML changes
+
 Version 1.0.4
 -------------
 _Released 2016-11-10_
